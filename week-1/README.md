@@ -1,11 +1,4 @@
-# JavaScript Basics - Week 1
 
-Welcome to the **Week 1** project of the JavaScript learning journey. This repository focuses on the fundamental concepts of JavaScript, providing a solid foundation for building dynamic web applications.
-
-## 🚀 Overview
-This collection of scripts covers essential JavaScript syntax and logic, ranging from basic variable declarations to advanced array manipulations and data validation.
-
-## 📂 Project Structure
 
 | File | Description |
 | :--- | :--- |
@@ -44,8 +37,4 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 - **Validation Logic**: Robust validation functions for task management scenarios.
 - **Modern Syntax**: Utilizes ES6 features like arrow functions and template literals.
 
-## 📝 Author
-**Tharun**
 
----
-Happy Coding! 💻✨
