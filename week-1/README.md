@@ -13,7 +13,7 @@
 | `sumofarray.js` | Utility functions for calculating array sums. |
 | `validator.js` | A validation library for tasks, titles, and dates. |
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **JavaScript (ES6+)**: The core language used for all logic.
 - **Node.js**: The runtime environment for executing scripts locally.
 
@@ -31,10 +31,10 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
    node arrayfunctions.js
    ```
 
-## 🌟 Key Features
-- **Functional Programming**: Extensive use of higher-order functions like `map` and `reduce`.
-- **Clean Code**: Focused, modular scripts for specific tasks.
-- **Validation Logic**: Robust validation functions for task management scenarios.
-- **Modern Syntax**: Utilizes ES6 features like arrow functions and template literals.
+## Key Features
+- Functional Programming: Extensive use of higher-order functions like `map` and `reduce`.
+- Clean Code: Focused, modular scripts for specific tasks.
+- Validation Logic: Robust validation functions for task management scenarios.
+- Modern Syntax: Utilizes ES6 features like arrow functions and template literals.
 
 
