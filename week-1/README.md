@@ -1,6 +1,6 @@
 
 
- File  Description 
+| File  Description |
 | :--- | :--- |
 | `1.js` | Initial introductory script for testing basics. |
 | `app.js` | Main application logic or entry point. |
