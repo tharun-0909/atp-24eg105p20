@@ -1,6 +1,6 @@
 
 
-| File | Description |
+ File  Description 
 | :--- | :--- |
 | `1.js` | Initial introductory script for testing basics. |
 | `app.js` | Main application logic or entry point. |
@@ -17,7 +17,7 @@
 - **JavaScript (ES6+)**: The core language used for all logic.
 - **Node.js**: The runtime environment for executing scripts locally.
 
-## 💻 How to Run
+## How to Run
 Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 
 1. Clone the repository (or navigate to the project folder).
